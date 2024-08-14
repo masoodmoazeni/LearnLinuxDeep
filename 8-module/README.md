@@ -25,7 +25,7 @@ sudo ./configure
 sudo make
 make install
 ```
-5-
+5- you can see article on this page
 ```
-
+https://medium.com/codelogicx/securing-nginx-server-using-modsecurity-oswaf-7ba79906d84c
 ```
