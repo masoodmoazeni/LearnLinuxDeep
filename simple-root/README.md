@@ -19,3 +19,9 @@ server {
 
 }
 ```
+
+for restore file and folder selinux for policy strategy
+```
+restorecon -R -v /var/www
+
+```
