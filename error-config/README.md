@@ -8,5 +8,6 @@ server {
 
     root /var/www/malaketabaran;
     error_page 404 /404.html;
+    error_page 500 501 502 503 504 /50x.html
 }
 ```
