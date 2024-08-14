@@ -1,5 +1,5 @@
 
 
 ```
-htpasswd -c /etc/nginx/site-available/.htpasswd admin
+htpasswd -c /etc/nginx/sites-available/.htpasswd admin
 ```
