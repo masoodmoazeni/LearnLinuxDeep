@@ -6,7 +6,7 @@ server {
 
     location /admin.html {
         auth_basic      "Login Required";
-        auth_basic_user_file /etc/nginx/site-available/config/.htpasswd;
+        auth_basic_user_file /etc/nginx/sites-available/config/.htpasswd;
     }
     root /var/www/malaketabaran;
     error_page 404 /404.html;
