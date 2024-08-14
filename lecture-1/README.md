@@ -1,5 +1,0 @@
-
-```
-mkdir -p  /var/www/example.com/html
-```
-
